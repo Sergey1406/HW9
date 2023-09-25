@@ -1,0 +1,4 @@
+INFO: Starting JuniorCrudServiceApplication using Java 17.0.7
+DEBUG: User admin created
+INFO1: Starting JuniorCrudServiceApplication using Java 17.0.7
+DEBUG1: User admin created
